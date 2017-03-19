@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Push Notifications</string>
+
+    <string name="please_wait">Please wait</string>
+    <string name="message_received">Message received</string>
+
+
+    <string name="ui_subject">Subject:</string>
+    <string name="ui_message">Message:</string>
+    <string name="ui_send_notification">Send notification:</string>
+
+
+    <string name="lorem_ipsum">Lorem ipsum</string>
+
+
+    <string name="text_first_recipient">S5</string>
+    <string name="text_second_recipient">ProBook</string>
+
+
+
+
+
+</resources>
