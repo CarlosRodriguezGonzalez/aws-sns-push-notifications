@@ -1,4 +1,4 @@
-# aws-sns-PushNotifications
+# aws-sns-push-notifications
 
 Demonstrating AWS SNS Push notifications service using Amazon Mobile SDK
 
